@@ -1,4 +1,4 @@
-# The orchapod/alpine-kube-shell Container
+# The Alpine kube-shell Container
 
 ## Quick Start
 
