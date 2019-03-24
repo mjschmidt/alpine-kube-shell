@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-### For better documentation and useage of Kube-Shell
+### For better documentation and usage of the kube-shell project
 https://github.com/cloudnativelabs/kube-shell
 
 ### Getting up and running with the container
